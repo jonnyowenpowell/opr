@@ -1,0 +1,16 @@
+// welcome to opr!
+// choose below to setup:
+// - jira
+//   - login
+//   - defaults
+//     1. board
+//     2. sprint
+//   - _back_
+// - github
+//   - login
+//   - _back_
+// - templates
+//   - add
+//   - remove
+//   - _back_
+// - _done_
